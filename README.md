@@ -1,2 +1,2 @@
-# collection-itens-react
+# Collection itens React Component
 Simples template de componente ReactJS de itens alteráveis e adicionáveis em coleções Javascript
